@@ -27,3 +27,4 @@ D:\Data\d drive\Corp\Srushti\Collabra\May31\Participants\Day27\SampleForDeploySe
 D:\Data\d drive\Corp\Srushti\Collabra\May31\Participants\Day27\SampleForDeployService\obj\Debug\net5.0\ref\SampleForDeployService.dll
 D:\Data\d drive\Corp\Srushti\Collabra\May31\Participants\Day27\SampleForDeployService\obj\Debug\net5.0\SampleForDeployService.pdb
 D:\Data\d drive\Corp\Srushti\Collabra\May31\Participants\Day27\SampleForDeployService\obj\Debug\net5.0\SampleForDeployService.genruntimeconfig.cache
+D:\Data\d drive\Corp\Srushti\Collabra\May31\Participants\Day27\SampleForDeployService\bin\Debug\net5.0\SampleForDeployService.yaml
